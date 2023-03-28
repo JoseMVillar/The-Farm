@@ -1,0 +1,1 @@
+# The-Farm Is just simple mouse input, You have to pick a fruit from the tree and give the right food to the girl and the animals, is you give them the right food you get a point if you give them the wrong kind of food you  do not get nothing.
